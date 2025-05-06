@@ -1,0 +1,11 @@
+1. 'fn' keyword is used to define a function in rust 
+2. program starts executing from a main function named main
+3. println! is used to get standard output and it's a macros ( these are buildin functions )
+4. We can't use single quote for strings like python.
+5. Variables are imuteable in rust we can rewrite a vaiable if it was defined as mutable using "mut" keyword eg: let mut a: &str = "Hello , world!";
+6. Constants can be declared outside of the function so we don't use let for constant and they are immutable and they are global
+7. while referring to numbers we can use underscrore as seperater like comma for better readability and we can use suffix as well 
+8. In rust max value of tuple = 12; tuples use () . This can contain any data type 
+9. Max values of array =  32 ; arrays uses [] . This can contain only specific data type as this is array. 
+
+
